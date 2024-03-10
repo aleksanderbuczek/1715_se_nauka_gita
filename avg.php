@@ -7,7 +7,7 @@ function srednia (a,b)
 
 function sredniawazona (a,b)
 {
-	return 0.44*a+0.56*b;
+	return 0.77*a+0.23*b;
 }
 
 ?>
